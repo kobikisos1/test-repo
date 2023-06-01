@@ -6,5 +6,6 @@ public class Main {
         System.out.println("started Main.start");
         System.out.println("add commit");
         System.out.println("add commit2");
+        System.out.println("add commit3");
     }
 }
