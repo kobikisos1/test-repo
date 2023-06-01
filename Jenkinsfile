@@ -1,3 +1,3 @@
-@Library("Jenkins") _
+@Library("test-library") _
 
 build ()
