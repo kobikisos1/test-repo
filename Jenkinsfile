@@ -1,3 +1,3 @@
-@Library("test-library@1.0.0") _
+@Library("test-library") _
 
 build ()
